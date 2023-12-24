@@ -9,7 +9,7 @@ import { TitleLogo } from '../../components/TitleLogo'
 import { Input } from '../../components/Input'
 import { Button } from '../../components/Button'
 
-import imgLogo from '../../assets/poligono.svg'
+import imgLogo from '/poligono.svg'
 
 import { useNavigate } from 'react-router-dom';
 

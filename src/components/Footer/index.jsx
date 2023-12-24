@@ -2,7 +2,7 @@ import { Container } from './styles'
 
 import { TitleLogo } from '../TitleLogo'
 
-import imgLogo from '../../assets/polygon-gray.svg'
+import imgLogo from '/Polygon-gray.svg'
 
 export function Footer() {
   return (

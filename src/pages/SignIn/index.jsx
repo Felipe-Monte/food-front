@@ -7,7 +7,7 @@ import { Input } from "../../components/Input";
 import { Button } from "../../components/Button";
 import { TitleLogo } from "../../components/TitleLogo"
 
-import imgLogo from '../../assets/poligono.svg'
+import imgLogo from '/poligono.svg'
 
 import { Container, Form } from "./styles";
 import { Link } from "react-router-dom";

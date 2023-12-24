@@ -3,7 +3,7 @@ import { Container, Banner } from "./styles"
 
 import { Header } from '../../components/Header'
 import { Footer } from '../../components/Footer'
-import bannerImg from '../../assets/bannerImg.png'
+import bannerImg from '/bannerImg.png'
 
 import { Slider } from "../../components/Slider"
 import { api } from "../../services/api"
