@@ -1,0 +1,73 @@
+
+[
+  {
+    "imagePath": "src/assets/Mask-group-1.png",
+    "id": "1",
+    "name": "Prato 1",
+    "description": "Descrição do Prato 1",
+    "price": "R$ 19,99"
+  },
+  {
+    "imagePath": "src/assets/Mask-group-2.png",
+    "id": "2",
+    "name": "Prato 2",
+    "description": "Descrição do Prato 2",
+    "price": "R$ 24,99"
+  },
+  {
+    "imagePath": "src/assets/Mask-group-3.png",
+    "id": "3",
+    "name": "Prato 3",
+    "description": "Descrição do Prato 3",
+    "price": "R$ 29,99"
+  },
+  {
+    "imagePath": "src/assets/Mask-group-4.png",
+    "id": "4",
+    "name": "Prato 4",
+    "description": "Descrição do Prato 4",
+    "price": "R$ 29,99"
+  },
+  {
+    "imagePath": "src/assets/Mask-group-5.png",
+    "id": "5",
+    "name": "Prato 5",
+    "description": "Descrição do Prato 5",
+    "price": "R$ 29,99"
+  },
+  {
+    "imagePath": "src/assets/Mask-group-6.png",
+    "id": "6",
+    "name": "Prato 6",
+    "description": "Descrição do Prato 6",
+    "price": "R$ 29,99"
+  },
+  {
+    "imagePath": "src/assets/Mask-group-7.png",
+    "id": "7",
+    "name": "Prato 7",
+    "description": "Descrição do Prato 7",
+    "price": "R$ 29,99"
+  },
+  {
+    "imagePath": "src/assets/Mask-group-8.png",
+    "id": "8",
+    "name": "Prato 8",
+    "description": "Descrição do Prato 8",
+    "price": "R$ 29,99"
+  },
+  {
+    "imagePath": "src/assets/Mask-group-9.png",
+    "id": "9",
+    "name": "Prato 9",
+    "description": "Descrição do Prato 9",
+    "price": "R$ 29,99"
+  },
+  {
+    "imagePath": "src/assets/Mask-group-10.png",
+    "id": "10",
+    "name": "Prato 10",
+    "description": "Descrição do Prato 10",
+    "price": "R$ 29,99"
+  }
+]
